@@ -2,9 +2,9 @@
 
 ## Description du projet
 
-Le projet consiste à réaliser un cas de modélisation complète ainsi qu'a construire et exploiter une base de données.
+Le projet consiste à réaliser un cas de modélisation complète ainsi qu'à construire et exploiter une base de données.
 
-Dans ce dépot vous pourrez retrouvez différents pdf ou je vous ferais un bref résumer dans se fichier README.md dans la partie "Sommaire".
+Dans ce dépôt vous pourrez retrouver différents PDF ou je vous ferai un bref résumé dans ce fichier README.md dans la partie "Sommaire".
 
 Travail de groupe fait à deux.
 
